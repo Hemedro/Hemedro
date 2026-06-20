@@ -52,4 +52,5 @@ I am not looking for random busywork. I am looking for teams that value better s
 
 - Email: ahmedabduahmed2001@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ahmed-abdullah-data-analyst/
+- Portfolio site: https://hemedro.github.io/ai-technical-operations-portfolio/
 - Portfolio repo: https://github.com/Hemedro/ai-technical-operations-portfolio
