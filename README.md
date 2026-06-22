@@ -3,7 +3,9 @@
 **AI Operations & Technical Operations Generalist**  
 Internal Tools | Workflow Systems | AI Evaluation | Arabic/English
 
-I work best inside messy business workflows: understanding how the work actually happens, organizing the data, using AI/tools where they help, and building practical systems that make execution clearer.
+I build practical internal tools and AI-assisted workflows for messy business operations. My work sits between operations, data, AI tools, and technical execution.
+
+**Portfolio:** https://hemedro.github.io/ai-technical-operations-portfolio/
 
 ## What I Build
 
@@ -13,24 +15,28 @@ I work best inside messy business workflows: understanding how the work actually
 - CRM, catalogue, procurement, and workflow tracking tools
 - AI evaluation and data quality workflows
 
+## Best Fit
+
+- AI operations
+- Technical operations
+- Internal tools
+- Workflow systems
+- Implementation / solutions roles
+- Product operations in startups
+
 ## Selected Proof
 
-### Glide Business Operations App
-Built and extended a Glide-based internal operations app for AL SAIFI, combining:
+### Catalogue / CRM / Sales Ownership App
+Built and extended a Glide-based internal operations app for AL SAIFI that connects sales, catalogue, supplier, and purchasing work:
 
 - CRM/customer records
-- visual material catalogue tracking
-- sales ownership
-- notifications/activity tracking
-- suppliers
-- purchase requests
-- purchase orders
-- receipts
-- payments
-- supplier price history
+- Visual material catalogue tracking
+- Sales ownership and activity visibility
+- Supplier records and supplier price history
+- Purchase requests, purchase orders, receipts, and payments
 
 ### AI-Assisted Al Ameen SOA Workflow
-Built and operated an AI-assisted reporting workflow around Al Ameen ERP to help prepare worker salary SOA reports, review accrued salary and advance balances, check previous-year payments, flag unclear accounting cases, and generate structured Excel/PDF outputs.
+Built and operated an AI-assisted reporting workflow around Al Ameen ERP to prepare worker salary SOA reports, review accrued salary and advance balances, check previous-year payments, flag unclear accounting cases, and generate structured Excel/PDF outputs.
 
 ### AI Evaluation / Annotation
 Worked across Arabic and English AI evaluation tasks including response quality, instruction-following, safety/harmfulness, search rating, audio transcript evaluation, image annotation, and satellite map validation.
@@ -45,8 +51,6 @@ Worked across Arabic and English AI evaluation tasks including response quality,
 ## Direction
 
 I am interested in AI-first teams, technical operations, AI operations, implementation, product operations, internal tools, and workflow automation.
-
-I am not looking for random busywork. I am looking for teams that value better systems.
 
 ## Contact
 
