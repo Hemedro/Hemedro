@@ -1,60 +1,84 @@
-# Ahmed Abdullah
+<p align="center">
+  <img src="./assets/animated-header.svg" alt="Ahmed Elsaid — Applied AI Engineering, LLM Evaluation and Arabic-English AI Systems" width="100%" />
+</p>
 
-**AI Operations & Technical Operations Generalist**  
-Internal Tools | Workflow Systems | AI Evaluation | Arabic/English
+<p align="center">
+  <a href="https://llm-evaluation-lab.onrender.com"><img src="https://img.shields.io/badge/Live_Project-LLM_Evaluation_Lab-14b8a6?style=for-the-badge" alt="Open LLM Evaluation Lab" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-abdullah-tech-ops/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://hemedro.github.io/ai-technical-operations-portfolio/"><img src="https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge" alt="Portfolio" /></a>
+</p>
 
-I build practical internal tools and AI-assisted workflows for messy business operations. My work sits between operations, data, AI tools, and technical execution.
+## Hello — I am Ahmed
 
-**Portfolio:** https://hemedro.github.io/ai-technical-operations-portfolio/
+I am a Software Engineering graduate moving from **evaluating AI systems** to **building applied AI products**.
 
-## What I Build
+Since June 2025, I have worked on Arabic and English AI-quality projects involving prompt creation, LLM response evaluation, instruction-following, safety, image and voice review, transcription, segmentation, map validation, URL verification, and data collection.
 
-- Internal tools for operations teams
-- AI-assisted reporting and review workflows
-- No-code/low-code business systems
-- CRM, catalogue, procurement, and workflow tracking tools
-- AI evaluation and data quality workflows
+I want to grow inside a technology-first team that experiments, learns, and builds useful new systems.
 
-## Best Fit
+## Featured build
 
-- AI operations
-- Technical operations
-- Internal tools
-- Workflow systems
-- Implementation / solutions roles
-- Product operations in startups
+### [LLM Evaluation Lab](https://llm-evaluation-lab.onrender.com)
 
-## Selected Proof
+<a href="https://llm-evaluation-lab.onrender.com">
+  <img src="https://raw.githubusercontent.com/Hemedro/llm-evaluation-lab/main/docs/llm-evaluation-lab-preview.png" alt="LLM Evaluation Lab dashboard" width="100%" />
+</a>
 
-### Catalogue / CRM / Sales Ownership App
-Built and extended a Glide-based internal operations app for AL SAIFI that connects sales, catalogue, supplier, and purchasing work:
+A bilingual workspace for creating evaluation datasets, comparing multiple OpenRouter models, reviewing responses, and combining automatic scoring with human judgment.
 
-- CRM/customer records
-- Visual material catalogue tracking
-- Sales ownership and activity visibility
-- Supplier records and supplier price history
-- Purchase requests, purchase orders, receipts, and payments
+[**Try the live app →**](https://llm-evaluation-lab.onrender.com) · [**Read the source →**](https://github.com/Hemedro/llm-evaluation-lab)
 
-### AI-Assisted Al Ameen SOA Workflow
-Built and operated an AI-assisted reporting workflow around Al Ameen ERP to prepare worker salary SOA reports, review accrued salary and advance balances, check previous-year payments, flag unclear accounting cases, and generate structured Excel/PDF outputs.
+## What I bring
 
-### AI Evaluation / Annotation
-Worked across Arabic and English AI evaluation tasks including response quality, instruction-following, safety/harmfulness, search rating, audio transcript evaluation, image annotation, and satellite map validation.
+| AI evaluation | Product thinking | Technical execution |
+|---|---|---|
+| Arabic/English quality judgment | Turn a rough problem into a workflow | Python, FastAPI, APIs, Git |
+| Rubrics, failure modes, safety | Pseudocode and acceptance criteria | React, TypeScript, Docker |
+| Text, image, voice and map tasks | Human-in-the-loop design | Testing, debugging and deployment |
 
-## Tools
+## Current engineering focus
 
-**AI/Data:** AI evaluation, LLM response review, Codex workflows, data annotation, search rating  
-**Technical:** Python, HTML, CSS, C#, Unity, Node.js, TypeScript, Docker, GitHub  
-**Operations:** Glide Apps, Excel reporting, workflow mapping, accounting/reporting support, internal tools  
-**Communication:** Arabic native, English professional
+```text
+Build small → test clearly → inspect failures → improve the system → document what changed
+```
 
-## Direction
+- Applied AI systems with real APIs and structured evaluation
+- Stronger independent Python, testing, Git, and debugging
+- Arabic-English model quality and localization
+- Reliable, understandable AI product workflows
 
-I am interested in AI-first teams, technical operations, AI operations, implementation, product operations, internal tools, and workflow automation.
+<details>
+<summary><strong>How I use AI-assisted development</strong></summary>
 
-## Contact
+I use coding assistants heavily. I define the product problem, workflow, data model, evaluation logic, test cases, and acceptance criteria; then I review, test, debug, and iterate on generated code. I am also rebuilding the ability to implement important parts independently instead of hiding behind generated output.
 
-- Email: ahmedabduahmed2001@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ahmed-abdullah-data-analyst/
-- Portfolio site: https://hemedro.github.io/ai-technical-operations-portfolio/
-- Portfolio repo: https://github.com/Hemedro/ai-technical-operations-portfolio
+</details>
+
+<details>
+<summary><strong>Earlier experience</strong></summary>
+
+- **Programming instructor:** Python, Unity, and web-development fundamentals
+- **AI data evaluation:** freelance Arabic/English and multimodal quality work
+- **Business systems:** IT support, document control, reporting, and workflow digitization in the UAE
+
+</details>
+
+## Tools I am using
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/OpenRouter-111827?style=flat-square" alt="OpenRouter" />
+</p>
+
+## Let us build something useful
+
+I am open to junior **Applied AI**, **AI Product Engineering**, **LLM Evaluation**, and **AI Quality Engineering** opportunities worldwide.
+
+- [LinkedIn](https://www.linkedin.com/in/ahmed-abdullah-tech-ops/)
+- [Portfolio](https://hemedro.github.io/ai-technical-operations-portfolio/)
+- [Email](mailto:ahmedabduahmed2001@gmail.com)

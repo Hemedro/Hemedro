@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Elsaid — Applied AI Engineering</title>
+  <desc id="desc">Animated profile header cycling through Applied AI Engineering, LLM Evaluation and Arabic-English AI Systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.55" stop-color="#0f2942"/>
+      <stop offset="1" stop-color="#0b3b3b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="75%" cy="25%" r="65%">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="28" fill="url(#glow)"/>
+
+  <g opacity="0.16" stroke="#7dd3fc" fill="none">
+    <path d="M760 54H1110M825 104H1165M730 250H1080"/>
+    <circle cx="760" cy="54" r="5" fill="#7dd3fc"/>
+    <circle cx="1110" cy="54" r="5" fill="#2dd4bf"/>
+    <circle cx="825" cy="104" r="5" fill="#2dd4bf"/>
+    <circle cx="1165" cy="104" r="5" fill="#7dd3fc"/>
+    <circle cx="730" cy="250" r="5" fill="#7dd3fc"/>
+    <circle cx="1080" cy="250" r="5" fill="#2dd4bf"/>
+  </g>
+
+  <circle cx="1005" cy="170" r="90" fill="#2dd4bf" opacity="0.08" filter="url(#soft)">
+    <animate attributeName="r" values="72;105;72" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.05;0.18;0.05" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="72" y="92" fill="#99f6e4" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">HELLO, I AM</text>
+  <text x="68" y="160" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="1">AHMED ELSAID</text>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="600">
+    <text x="72" y="222" fill="#7dd3fc" opacity="1">Applied AI Engineering
+      <animate attributeName="opacity" values="1;1;0;0;0;1" keyTimes="0;0.25;0.34;0.67;0.92;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="72" y="222" fill="#c4b5fd" opacity="0">LLM Evaluation &amp; AI Quality
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.27;0.36;0.58;0.67;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="72" y="222" fill="#5eead4" opacity="0">Arabic ↔ English AI Systems
+      <animate attributeName="opacity" values="0;0;0;1;1;0" keyTimes="0;0.58;0.67;0.91;0.98;1" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <text x="72" y="264" fill="#94a3b8" font-family="Consolas, Menlo, monospace" font-size="16">evaluate → build → test → learn → improve</text>
+  <rect x="68" y="281" width="410" height="3" rx="2" fill="#2dd4bf">
+    <animate attributeName="width" values="90;410;90" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
